@@ -1,4 +1,6 @@
-## Learn how to add column wise filter to angular material table
+
+## Angular Mat Table Filtering Sorting Pagination and Button Column
+
 
 ## 1.Install Angular Material
  
